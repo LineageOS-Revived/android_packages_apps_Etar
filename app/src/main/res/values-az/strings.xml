@@ -117,7 +117,7 @@
     <string name="quick_response_settings_summary">Qonaqlara e-poçt göndərərkən defolt cavabları redaktə et</string>
     <string name="quick_response_settings_edit_title">Qısa cavab</string>
     <string name="quick_response_dialog_title">Qısa cavab seç</string>
-    <string name="quick_response_email_failed">E-poçt proqram tapılmadı</string>
+    <string name="quick_response_email_failed">E-poçt proqramı tapılmadı</string>
     <string-array name="quick_response_defaults">
         <item>Sadəcə bir neçə dəqiqə gec qalır.</item>
         <item>10 dəqiqə içərisində orda olun.</item>
@@ -229,7 +229,7 @@
     <string name="preferences_experimental_category">Eksperimental</string>
     <string name="preferences_reminders_responded_label">Xatırladıcıları keç</string>
     <string name="preferences_reminders_responded_dialog">Xatırladıcıları keç</string>
-    <string name="copy_db">Verilənlər bazasını göndər</string>
+    <string name="copy_db">Data bazanı göndər</string>
     <string name="directory_searching_fmt"><xliff:g id="DOMAIN">%s</xliff:g> axtarılır…</string>
     <string name="accessibility_remove_attendee">İştirakçını sil</string>
     <string name="accessibility_pick_start_date">Başlama tarixi</string>
